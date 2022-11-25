@@ -1,0 +1,63 @@
+#divforleftsidebar{
+    border: 1px solid black;
+  
+    border-radius: 10px;
+    margin-top: 10px;
+  
+}
+#footer{
+    border: 1px solid black;
+    width: 90%;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 5%;
+    margin-top: 30px;
+
+}
+#divforrightsidebar{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+
+
+}
+#firstcard{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+#secondcard{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+#pic1{
+height: 190px;
+}
+#info1{
+    height: 100px;
+}
+#secondcardinfirst{
+    
+    height: 100px;
+}
+#pic2{
+    width: 150px;
+
+  
+}
+
+
+#teams{
+    display: none;
+    position:absolute;
+    
+    background-color: white;
+}
+#Tms:hover #teams{
+display: block;
+}
